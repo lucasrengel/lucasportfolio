@@ -1,5 +1,5 @@
 # Autor: Lucas Rengel
-# Descrição: Algoritimo que lê um valor N e imprime todos os valores inteiros entre 1 (inclusive) e N (inclusive). Considerando que o N será sempre maior que ZERO. Caso o valor informado (para N) não seja maior que 0, será lido um novo valor para N. 
+# Descrição: Algoritmo que lê um valor N e imprime todos os valores inteiros entre 1 (inclusive) e N (inclusive). Considerando que o N será sempre maior que ZERO. Caso o valor informado (para N) não seja maior que 0, será lido um novo valor para N. 
 #!/bin/bash
 read n
 m=1
