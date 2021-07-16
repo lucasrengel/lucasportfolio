@@ -3,6 +3,7 @@
 ## Questão 1
 
 #!/bin/bash
+
 cat /etc/passwd
 
 
