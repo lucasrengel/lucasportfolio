@@ -15,11 +15,11 @@ programação na Imperial Studio
 
 # Fundamentos de TI
 
-[ vetores ](FundamentosTI\atividades\vetores)
+[ vetores ](FundamentosTI/atividades/vetores)
 
-[ atividadeBC ](FundamentosTI\atividades\atividadeBC)
+[ atividadeBC ](FundamentosTI/atividades/atividadeBC)
 
-[ atividadeShell ](FundamentosTI\atividades\atividadeShell)
+[ atividadeShell ](FundamentosTI/atividades/atividadeShell)
 
 # Logica Computacional
 
