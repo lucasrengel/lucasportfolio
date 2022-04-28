@@ -1,0 +1,22 @@
+public class LIGACAO extends Compowder{
+  private float dispositivoRastreamento;
+  private int camera;
+  private int telefoneSatelite;
+  private String videofone;
+  private String smartphone;
+  private String gravacaoImagem;
+  private float analiseVoz;
+  private int conexao;
+
+public LIGACAO(float dispositivoRastreamento, int camera, int telefoneSatelite, String videofone, String smartphone, String gravacaoImagem, float analiseVoz, int conexao, int serial, String nomeEspia, float versao){
+  super(serial, nomeEspia, versao);
+  this.dispositivoRastreamento = dispositivoRastreamento;
+  this.camera = camera;
+  this.telefoneSatelite = telefoneSatelite;
+  this.videofone = videofone;
+  this.smartphone = smartphone;
+  this.gravacaoImagem = gravacaoImagem;
+  this.analiseVoz = analiseVoz;
+  this.conexao = conexao;
+  }
+}
