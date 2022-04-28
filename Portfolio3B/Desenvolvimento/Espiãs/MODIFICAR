@@ -1,0 +1,10 @@
+public class MODIFICAR extends Compowder{
+  private int mudarRoupa;
+  private int mudarAparenciaVeiculo;
+
+public MODIFICAR(int mudarRoupa, int mudarAparenciaVeiculo, int serial, String nomeEspia, float versao){
+  super(serial, nomeEspia, versao);
+  this.mudarRoupa = mudarRoupa;
+  this.mudarAparenciaVeiculo = mudarAparenciaVeiculo;
+  }
+}
