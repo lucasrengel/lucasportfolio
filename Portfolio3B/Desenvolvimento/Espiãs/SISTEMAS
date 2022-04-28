@@ -1,0 +1,20 @@
+public class SISTEMAS extends Compowder{
+  private float escaneadorImpressao;
+  private String projecaoHolograma;
+  private String projecaoImagens;
+  private float monitoramentoSinaisBiologicos;
+  private int gps;
+  private int acessarSistemaComputador;
+  private String paginacao;
+
+public SISTEMAS(float escaneadorImpressao, String projecaoHolograma, String projecaoImagens, float monitoramentoSinaisBiologicos, int gps, int acessarSistemaComputador, String paginacao, int serial, String nomeEspia, float versao){
+  super(serial, nomeEspia, versao);
+  this.escaneadorImpressao = escaneadorImpressao;
+  this.projecaoHolograma = projecaoHolograma;
+  this.projecaoImagens = projecaoImagens;
+  this.monitoramentoSinaisBiologicos = monitoramentoSinaisBiologicos;
+  this.gps = gps;
+  this.acessarSistemaComputador = acessarSistemaComputador;
+  this.paginacao = paginacao;
+  }
+}
