@@ -1,0 +1,23 @@
+public class WOOHP{
+  private boolean selecao;
+  private String rotinaLuta;
+  private String manualFormacao;
+  private float orcamento;
+  private boolean teste;
+  private String premios;
+  private String conclusao;
+  private String edificio;
+  private String filias;
+
+public WOOHP(boolean selecao, String rotinaLuta, String manualFormacao, float orcamento, boolean teste, String premios, String conclusao, String edificio, String filias){
+  this.selecao = selecao;
+  this.rotinaLuta = rotinaLuta;
+  this.manualFormacao = manualFormacao;
+  this.orcamento = orcamento;
+  this.teste = teste;
+  this.premios = premios;
+  this.conclusao = conclusao;
+  this.edificio = edificio;
+  this.filias = filias;
+  }
+}
